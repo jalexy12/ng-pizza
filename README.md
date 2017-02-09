@@ -1,9 +1,19 @@
-# NgPizza
+# Ng Pizza
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.30.
 
+It was part of a talk for [BocaJS](https://www.meetup.com/Boca-JS/) in February 2017.
+
+## Setup
+
+This project requires [Node.js](https://nodejs.org/) to be installed.
+
+In your terminal, navigate to this folder and run `npm install` to install the required packages.
+
+This project communicates with an API. You can find the API back end project in [the express-pizza repo](https://github.com/khalifenizar/express-pizza).
+
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
