@@ -1,0 +1,16 @@
+.deals li {
+  float: left;
+  margin-right: 15px;
+}
+
+img {
+  width: 275px;
+}
+
+h3 {
+  margin: 5px 0;
+}
+
+p {
+  margin: 0 0 5px;
+}

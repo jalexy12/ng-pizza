@@ -1,0 +1,16 @@
+section {
+  position: absolute;
+  top: 50%;
+  right: 25px;
+  transform: translateY(-50%);
+}
+
+h3,
+ul {
+  margin: 0;
+}
+
+.cart-total {
+  color: #22aa44;
+  font-weight: bold;
+}

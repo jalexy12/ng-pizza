@@ -1,0 +1,14 @@
+header {
+  position: relative;
+  border: 2px solid #cc0001;
+  border-radius: 3px;
+  overflow: auto;
+}
+
+h1 {
+  float: left;
+  margin: 0;
+  padding: 20px;
+  font-size: 50px;
+  color: #22aa44;
+}

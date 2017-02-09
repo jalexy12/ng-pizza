@@ -1,0 +1,10 @@
+<h2> Try our delicious pizzas </h2>
+
+<ul class="deals">
+  <li *ngFor="let deal of pizzaDeals">
+    <img src="{{deal.image}}">
+    <h3> {{deal.name}} </h3>
+    <p> ${{totalPrice(deal)}} </p>
+    <button (click)="makeOrder(deal)"> Order Now </button>
+  </li>
+</ul>

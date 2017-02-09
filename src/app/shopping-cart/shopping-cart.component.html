@@ -1,0 +1,7 @@
+<section class="cart">
+  <h3> Shopping Cart </h3>
+  <ul>
+    <li *ngIf="cart.length"> {{cart.length}} {{itemNoun}} </li>
+    <li class="cart-total"> ${{total}} </li>
+  </ul>
+</section>

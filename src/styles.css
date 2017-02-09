@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: #feff99;
+  font-family: Futura, Helvetica, sans-serif;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+button {
+  border: none;
+  border-radius: 3px;
+  padding: 10px 15px;
+  background-color: #cc0001;
+  color: #fff;
+  font-family: Futura, Helvetica, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
