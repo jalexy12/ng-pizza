@@ -5,6 +5,8 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 It was part of a talk for [BocaJS](https://www.meetup.com/Boca-JS/) in February 2017.
 
+--jalexy
+
 ## Setup
 
 This project requires [Node.js](https://nodejs.org/) to be installed.
